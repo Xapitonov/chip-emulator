@@ -1,0 +1,26 @@
+<resources>
+
+    <string name="app_name">Chip8</string>
+    <string name="settings">Настройки</string>
+
+    <string name="settings_speed">Скорость</string>
+    <string name="settings_foreground_color">Цвет переднего плана</string>
+    <string name="settings_foreground_color_description">Установите цвет для переднего плана дисплея.</string>
+    <string name="settings_background_color">Цвет фона</string>
+    <string name="settings_background_color_description">Установите цвет для фона дисплея.</string>
+    <string name="settings_register_quirk">Особенность регистра</string>
+    <string name="settings_register_quirk_description">Увеличивать индекс при сохранении регистров в памяти.</string>
+    <string name="settings_shift_quirk">Особенность сдвига</string>
+    <string name="settings_shift_quirk_description">Не использовать второй регистр для инструкции сдвига.</string>
+
+    <!-- other / прочее -->
+    <string name="open">Загрузить</string>
+
+    <!-- preferences / предпочтения -->
+    <string name="pref_speed" translatable="false">pref_speed</string>
+    <string name="pref_foreground_color" translatable="false">pref_foreground_color</string>
+    <string name="pref_background_color" translatable="false">pref_background_color</string>
+    <string name="pref_register_quirk" translatable="false">pref_register_quirk</string>
+    <string name="pref_shift_quirk" translatable="false">pref_shift_quirk</string>
+
+</resources>
